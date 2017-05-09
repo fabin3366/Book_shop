@@ -1,0 +1,2 @@
+To improve,
+matchKeyWords and findSingleItem methods should be separated from class search next time.
